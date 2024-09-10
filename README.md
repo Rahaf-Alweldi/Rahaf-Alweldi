@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rahaf-Alweldi
-- 👀 I’m interested in Data Engineer World
+- 👀 I’m interested in the World of Data
 - 🌱 I’m currently learning Data Engineering tools as well as AI
 
 
